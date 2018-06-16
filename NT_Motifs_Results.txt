@@ -1,0 +1,60 @@
+Output Results of Motif Finding Algorithm
+->Motif Length = 10
+->NT sections with a sequence length of less than the Motif Length are not displayed
+
+Generated Motif Profile:
+		0		1		2		3		4		5		6		7		8		9
+F	0.001	0.001	0.167	0.001	0.167	0.167	0.001	0.001	0.001	0.167
+L	0.001	0.001	0.001	0.167	0.001	0.167	0.001	0.001	0.500	0.001
+I	0.001	0.333	0.001	0.001	0.001	0.001	0.167	0.167	0.001	0.167
+M	0.167	0.001	0.001	0.167	0.001	0.001	0.001	0.167	0.001	0.001
+V	0.001	0.001	0.001	0.167	0.667	0.167	0.001	0.500	0.001	0.001
+S	0.333	0.167	0.001	0.001	0.001	0.333	0.333	0.001	0.001	0.001
+P	0.167	0.001	0.500	0.001	0.001	0.001	0.001	0.001	0.001	0.001
+T	0.001	0.167	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001
+A	0.001	0.333	0.001	0.333	0.001	0.001	0.001	0.001	0.001	0.001
+Y	0.167	0.001	0.001	0.001	0.001	0.167	0.001	0.001	0.001	0.001
+H	0.001	0.001	0.001	0.001	0.001	0.001	0.167	0.001	0.001	0.001
+Q	0.001	0.001	0.001	0.001	0.167	0.001	0.001	0.167	0.167	0.001
+N	0.001	0.001	0.001	0.167	0.001	0.001	0.001	0.001	0.001	0.167
+K	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001
+D	0.167	0.001	0.001	0.001	0.001	0.001	0.333	0.001	0.001	0.001
+E	0.001	0.001	0.167	0.001	0.001	0.001	0.001	0.001	0.333	0.500
+C	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001
+W	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001
+R	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001	0.001
+G	0.001	0.001	0.167	0.001	0.001	0.001	0.001	0.001	0.001	0.001
+
+Information Content: 23.642207808930234
+
+Best Matching Motif in each sequence:
+	C01H6.9_hasp1_conceptual translation 
+	-->Best Matching Subsequence: PSPNVSDVEI
+	-->BLOSUM62 Match Score: 17
+	-->Consensus Sequence Matched: SAPAVSDVLE
+
+	ZK177.2conceptual translation 
+	-->Best Matching Subsequence: MIFAVVDILE
+	-->BLOSUM62 Match Score: 23
+	-->Consensus Sequence Matched: SIPAVSDVLE
+
+	F59E12.6and15_combined 
+	-->Best Matching Subsequence: STPAVSIMEE
+	-->BLOSUM62 Match Score: 24
+	-->Consensus Sequence Matched: SAPAVSSVLE
+
+	Y73B6A.1aconceptual translation 
+	-->Best Matching Subsequence: YAEMVLSVLE
+	-->BLOSUM62 Match Score: 19
+	-->Consensus Sequence Matched: SAPAVSSVLE
+
+	Y48B6A.10conceptual translation 
+	-->Best Matching Subsequence: SIGLQFSVLF
+	-->BLOSUM62 Match Score: 10
+	-->Consensus Sequence Matched: SIPAVSSVLE
+
+	H12I13.1conceptual translation 
+	-->Best Matching Subsequence: DAPVFYHQQN
+	-->BLOSUM62 Match Score: 3
+	-->Consensus Sequence Matched: SAPAVSSVLE
+

@@ -1,0 +1,269 @@
+Output for NT phosphorolation sites from new_amino_acids.txt
+
+----------- motif VPVSP-----------
+>C01H6.9_hasp1_conceptual translation (465)
+VPISP
+>F59E12.6and15_combined (442)
+VIVSP
+>H12I13.1conceptual translation (278)
+VHVSD
+>Y73B6A.1aconceptual translation (53)
+VLESS
+
+----------- motif FPS-----------
+>H12I13.1conceptual translation (278)
+FWS
+>C01H6.9_hasp1_conceptual translation (465)
+FKS
+>F59E12.6and15_combined (442)
+FPS
+>Y48B6A.10conceptual translation (74)
+FIS
+
+----------- motif LGVT-----------
+>Y48B6A.10conceptual translation (74)
+LGKT
+>F59E12.6and15_combined (442)
+LGVT
+>C01H6.9_hasp1_conceptual translation (465)
+LDDT
+
+----------- motif FPSF-----------
+>H12I13.1conceptual translation (278)
+FWSA
+>C01H6.9_hasp1_conceptual translation (465)
+FKSF
+>F59E12.6and15_combined (442)
+FPSF
+>Y48B6A.10conceptual translation (74)
+FISC
+
+----------- motif SSD-----------
+>F59E12.6and15_combined (442)
+SRD
+>C01H6.9_hasp1_conceptual translation (465)
+SSD
+>Y73B6A.1aconceptual translation (53)
+SSD
+>H12I13.1conceptual translation (278)
+SDD
+
+----------- motif ISC-----------
+>C01H6.9_hasp1_conceptual translation (465)
+ISP
+>ZK177.2conceptual translation (15)
+ISI
+>F59E12.6and15_combined (442)
+ISQ
+>Y48B6A.10conceptual translation (74)
+ISC
+>H12I13.1conceptual translation (278)
+ISS
+
+----------- motif RKT-----------
+>Y48B6A.10conceptual translation (74)
+GKT
+>C01H6.9_hasp1_conceptual translation (465)
+NKT
+>Y73B6A.1aconceptual translation (53)
+RKT
+>H12I13.1conceptual translation (278)
+RKT
+>F59E12.6and15_combined (442)
+SKT
+
+----------- motif LES-----------
+>ZK177.2conceptual translation (15)
+LEI
+>F59E12.6and15_combined (442)
+LES
+>Y73B6A.1aconceptual translation (53)
+LES
+>Y48B6A.10conceptual translation (74)
+LES
+
+----------- motif GIS-----------
+>C01H6.9_hasp1_conceptual translation (465)
+PIS
+>ZK177.2conceptual translation (15)
+EIS
+>Y48B6A.10conceptual translation (74)
+FIS
+>F59E12.6and15_combined (442)
+TIS
+>H12I13.1conceptual translation (278)
+GIS
+
+----------- motif GSL-----------
+>Y73B6A.1aconceptual translation (53)
+GSR
+>C01H6.9_hasp1_conceptual translation (465)
+GSI
+>F59E12.6and15_combined (442)
+GSL
+>H12I13.1conceptual translation (278)
+GSD
+
+----------- motif LESS-----------
+>ZK177.2conceptual translation (15)
+LEIS
+>C01H6.9_hasp1_conceptual translation (465)
+VEIS
+>Y73B6A.1aconceptual translation (53)
+LESS
+>F59E12.6and15_combined (442)
+NESS
+>Y48B6A.10conceptual translation (74)
+LYSS
+
+----------- motif SAA-----------
+>H12I13.1conceptual translation (278)
+SAA
+>C01H6.9_hasp1_conceptual translation (465)
+SKA
+>F59E12.6and15_combined (442)
+SSA
+>Y73B6A.1aconceptual translation (53)
+SYA
+
+----------- motif GSIQ-----------
+>ZK177.2conceptual translation (15)
+ISIQ
+>C01H6.9_hasp1_conceptual translation (465)
+GSIQ
+>F59E12.6and15_combined (442)
+RSIH
+>Y73B6A.1aconceptual translation (53)
+KSIK
+>Y48B6A.10conceptual translation (74)
+LSIG
+>H12I13.1conceptual translation (278)
+TSIS
+
+----------- motif KNS-----------
+>Y73B6A.1aconceptual translation (53)
+KNG
+>F59E12.6and15_combined (442)
+KNS
+>H12I13.1conceptual translation (278)
+KNS
+
+----------- motif ISI-----------
+>ZK177.2conceptual translation (15)
+ISI
+>C01H6.9_hasp1_conceptual translation (465)
+ISP
+>F59E12.6and15_combined (442)
+ISQ
+>Y48B6A.10conceptual translation (74)
+ISC
+>H12I13.1conceptual translation (278)
+ISS
+>Y73B6A.1aconceptual translation (53)
+KSI
+
+----------- motif WSKA-----------
+>H12I13.1conceptual translation (278)
+WSAA
+>C01H6.9_hasp1_conceptual translation (465)
+NSKA
+>F59E12.6and15_combined (442)
+WSKF
+>Y73B6A.1aconceptual translation (53)
+KSYA
+
+----------- motif SPG-----------
+>C01H6.9_hasp1_conceptual translation (465)
+SPG
+>H12I13.1conceptual translation (278)
+SPG
+>F59E12.6and15_combined (442)
+SPS
+>Y48B6A.10conceptual translation (74)
+SIG
+
+----------- motif ISPG-----------
+>C01H6.9_hasp1_conceptual translation (465)
+ISPG
+>H12I13.1conceptual translation (278)
+PSPG
+>F59E12.6and15_combined (442)
+VSPS
+>Y48B6A.10conceptual translation (74)
+LSIG
+>ZK177.2conceptual translation (15)
+ISIQ
+
+----------- motif LGVTV-----------
+>Y48B6A.10conceptual translation (74)
+LGKTN
+>F59E12.6and15_combined (442)
+LGVTV
+>C01H6.9_hasp1_conceptual translation (465)
+LDDTI
+
+----------- motif RKTAK-----------
+>Y48B6A.10conceptual translation (74)
+GKTNT
+>C01H6.9_hasp1_conceptual translation (465)
+NKTAK
+>F59E12.6and15_combined (442)
+SKTAS
+>Y73B6A.1aconceptual translation (53)
+RKTGK
+>H12I13.1conceptual translation (278)
+RKTPG
+
+----------- motif FNSAA-----------
+>H12I13.1conceptual translation (278)
+FWSAA
+>C01H6.9_hasp1_conceptual translation (465)
+MNSKA
+>F59E12.6and15_combined (442)
+FNSSS
+
+----------- motif KSA-----------
+>H12I13.1conceptual translation (278)
+WSA
+>C01H6.9_hasp1_conceptual translation (465)
+KSA
+>F59E12.6and15_combined (442)
+KSA
+
+----------- motif TGSSK-----------
+>Y73B6A.1aconceptual translation (53)
+NGSRK
+>F59E12.6and15_combined (442)
+TGSSK
+>H12I13.1conceptual translation (278)
+TGSDD
+
+----------- motif GSSK-----------
+>Y73B6A.1aconceptual translation (53)
+GSRK
+>F59E12.6and15_combined (442)
+GSSK
+>H12I13.1conceptual translation (278)
+GSDD
+
+----------- motif PISC-----------
+>C01H6.9_hasp1_conceptual translation (465)
+PISP
+>ZK177.2conceptual translation (15)
+EISI
+>F59E12.6and15_combined (442)
+TISQ
+>H12I13.1conceptual translation (278)
+IISS
+>Y48B6A.10conceptual translation (74)
+FISC
+
+----------- motif GFIS-----------
+>H12I13.1conceptual translation (278)
+GFWS
+>C01H6.9_hasp1_conceptual translation (465)
+LFKS
+>F59E12.6and15_combined (442)
+IFNS
+>Y48B6A.10conceptual translation (74)
+YFIS
